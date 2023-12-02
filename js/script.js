@@ -1,6 +1,6 @@
 
 
-function chega(){
+function verificar(){
     let inputNome = document.getElementById('nome')
     let inputEmail = document.getElementById('email')
     let inputTelefone = document.getElementById('numero')
